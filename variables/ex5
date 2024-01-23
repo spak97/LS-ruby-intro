@@ -1,0 +1,4 @@
+First program will output 3
+
+Second will give an error because x is never defined outside 
+of the block.
