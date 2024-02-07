@@ -1,10 +1,10 @@
 a = [1, 2, 3]
 
 # Example of a method definition that mutates its argument permanently
-def mutate(array)
-  array.pop
+def no_mutate(array)
+  array.last
 end
 
 p "Before mutate method: #{a}"
-mutate(a)
+no_mutate(a)
 p "After mutate method: #{a}"
