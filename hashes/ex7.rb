@@ -1,0 +1,1 @@
+# B. keys is a hash method, not an array method.
