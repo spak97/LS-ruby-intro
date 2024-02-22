@@ -1,0 +1,1 @@
+# exception handling catches errors and rescues them so that the code can proceed without exiting and also notify us of the error

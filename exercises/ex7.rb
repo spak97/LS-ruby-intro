@@ -1,0 +1,1 @@
+# array is a list of items. Hash is a list of key value pairs
